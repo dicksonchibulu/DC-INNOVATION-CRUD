@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:3000/api/products";
+const API_URL = "https://dc-innovation-crud.onrender.com/api/products";
 
 const productForm = document.getElementById("productForm");
 const productTable = document.getElementById("productTable");
